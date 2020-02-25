@@ -1,2 +1,2 @@
 # Github-basics-polu
-basics commands for Github 
+basics commands for Github This file contains the basic codes to interact with Github using GitBash
